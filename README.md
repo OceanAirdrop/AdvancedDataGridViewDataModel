@@ -7,3 +7,5 @@ The code is rough around the edges but as a proof of concept works.. Potential i
 
 Tested with datatypes: int, string, bool, DateTime double & decimal.
 
+![alt tag](https://raw.githubusercontent.com/OceanAirdrop/AdvancedDataGridViewDataModel/blob/master/ScreenShot.png)
+
